@@ -1,7 +1,6 @@
 # AAIO — AI-Powered WhatsApp Automation for Tuition Centres
 
 ![Status](https://img.shields.io/badge/status-active%20development-blue)
-![Stage](https://img.shields.io/badge/stage-approaching%20beta-orange)
 ![Platform](https://img.shields.io/badge/platform-Singapore-red)
 ![Stack](https://img.shields.io/badge/stack-FastAPI%20%7C%20React%2019%20%7C%20PostgreSQL-informational)
 ![WhatsApp](https://img.shields.io/badge/messaging-WhatsApp-25D366?logo=whatsapp&logoColor=white)
